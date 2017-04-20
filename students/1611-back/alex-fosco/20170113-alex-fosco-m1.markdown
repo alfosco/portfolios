@@ -23,7 +23,7 @@
 
 ## A: End of Module Assessment
 
-Assessed By: Nate 
+Assessed By: Nate
 
 Challenge: Pantry Option 1
 
@@ -80,23 +80,23 @@ In this project I used Ruby and utilized a linked list to make a very basic drum
 1.) Functional Expectations
 
     3: Application fulfills all base expectations
-    
+
 2.) Test-Driven Development
 
     4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-    
+
 3.) Encapsulation / Breaking Logic into Components
 
     3: Application effectively breaks logical components apart but breaks the principle of SRP
-    
+
 4.) Fundamental Ruby & Style
 
     3: Application shows strong effort towards organization, content, and refactoring
-    
+
 5.) Looping or Recursion
 
     3: Application makes effective use of loop/recursion techniques
-    
+
 #### Battleship
 
 * [GitHub URL](https://github.com/alfosco/battleship)
@@ -116,23 +116,23 @@ In this project I used Ruby to build an implementation of the classic game Battl
 1.) Fundamental Ruby & Style
 
     2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-    
+
 2). Enumerable & Collections
 
     3: Application demonstrates comfortable use of several Enumerable techniques
-    
+
 3.) Test-Driven Development
 
     2: Application makes some use of tests, but the coverage is insufficient
-    
+
 4.) REPL Interface
 
     2: Application's REPL has some inconsistencies or rough edges
-    
+
 5.) Breaking Logic into Components
 
     3: Application effectively breaks logical components apart with clear intent and usage
-    
+
 6.) Functional Expectations
 
     2: Application runs, but does not work properly, or does not meet specifications.
@@ -163,15 +163,15 @@ In this project Casey and I used Ruby to build a tool for cracking an encryption
 1.) Overall Functionality
 
     1: Application is missing two operations or crashes during normal usage
-    
+
 2.) Fundamental Ruby & Style
 
     1: Application generates syntax error or crashes during execution
-    
+
 3.) Test-Driven Development
 
     3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-    
+
 4.) Breaking Logic into Components
 
     2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
@@ -201,23 +201,23 @@ In this project we built upon a dataset centered around schools in Colorado prov
 1.) Functional Expectations
 
 	2: Application has some missing functionality but no crashes
-	
+
 2.) Test-Driven Development
 
 	3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-	
+
 3.) Encapsulation / Breaking Logic into Components
 
 	3: Application effectively breaks logical components apart but breaks the principle of SRP
-	
+
 4.) Fundamental Ruby & Style
 
 	3: Application shows strong effort towards organization, content, and refactoring
-	
+
 5.) Enumerable & Collections
 
 	3: Application demonstrates comfortable use of appropriate Enumerable methods
-	
+
 6.) Code Sanitation
 
 	The output from rake sanitation:all shows...
@@ -238,7 +238,7 @@ Alex has been an awesome pair to work with because of his personality and extrao
 The TED talk by Carol Dweck (The Power of Believing That You Can Improve) is appropiate for Mod 1 students before they really start the Turing program. Her story about the school giving kids who fail a grade of 'not yet' is a little corny but cool. I like the mindset they are trying to instill in their students.
 
 Mod 4 students and alumni sharing the struggles they had while going through Turing was beneficial. I think it is good for the new students and myself to hear that these same people who seem very smart now, repeated and struggled just like some of us.
-    
+
 #### Cohort Norms
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_cohort_norms.markdown)
@@ -254,7 +254,7 @@ In a big group I let the chatty-kathys exhuast themselves then I insert myself i
 
 What brought you here?
 
-  -I was exposed to some basic HTML and CSS in college. I thought it was really cool. After college I served in the Army but I wanted to get into software development once my contract was up. I enjoy solving hard problems and the creativty of the field. As soon as I had the chance to start learning software development I dove in and now I'm here at Turing. 
+  -I was exposed to some basic HTML and CSS in college. I thought it was really cool. After college I served in the Army but I wanted to get into software development once my contract was up. I enjoy solving hard problems and the creativty of the field. As soon as I had the chance to start learning software development I dove in and now I'm here at Turing.
 
 What are the values that drive you?
 
@@ -266,16 +266,17 @@ What are the values that drive you?
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
 
 Think of a time at Turing when you've been tempted to give up.
-	•	Is it possible to interpret that experience through the lens of grit, i.e. your grit to get through a difficult situation   was under strain?
-	
-    -At the end of my first time going through module one I decided I was going to quit. I was struggling a lot and wasn't convinced that I could learn the material. Mike talked about it with me and I decided to stay. My grit was definitely under strain. But I stuck with it, got a lot of help and put in a lot of work, and I feel very confident in my abilities now relating to what is taught in moudle 1.
+	•	Is it possible to interpret that experience through the lens of grit, i.e. your grit to get through a difficult situation was under strain?
+
+    -At the end of my first time going through module one I decided I was going to quit. I was struggling a lot and wasn't convinced that I could learn the material. Mike talked about it with me and I decided to stay. My grit was definitely under strain. But I stuck with it, got a lot of help and put in a lot of work, and I feel confident in my abilities.
+
 	•	Is that lens helpful?
-	  
-    -This lens is very helpful. I've been successful at a lot of things but I haven't really challenged my brain like they do at Turing. It wasn't always fun, but I learned that I can learn things that onced seemed impossible. I just have to be patient and understand sometimes it will take a longer time than I want it to. But you will always be successful if you put in the time, work and dedication.
-    
+
+    -This lens is very helpful. I've been successful at a lot of things but I haven't really challenged my brain like they do at Turing. I just have to be patient and understand sometimes it will take a longer time than I want it to. But you will always be successful if you put in the time, work and dedication.
+
 	•	Is it in any way problematic (emphasizing pushing through when you really need a break)?
-  
-	  -I think this really depends on the situation. Sometimes it depends on the situation. I think you should just push through as hard as you can until it starts to comprimise your physical or mental health. At the point you draw the line and take a break.
+
+	  -I think this really depends on the situation. Sometimes it depends on the situation. I think you should just push through as hard as you can until it starts to compromise your physical or mental health. At the point you draw the line and take a break.
 
 ### Professional Development Workshops
 #### Personal Branding Part I
@@ -286,7 +287,7 @@ Think of a time at Turing when you've been tempted to give up.
 
 Take advantage of tools like linkedin, twitter, or a personal website to showcase myself and my skills to potential employers and collaborators.
 For my resume, translate my military skills and experiences into terms civilians will understand.
-    
+
 #### Learning to Pair
 
 * [Workshop URL](http://backend.turing.io/professional_development/module_one/learning_to_pair)
@@ -346,7 +347,7 @@ Alex has been an awesome pair to work with because of his personality and extrao
     -I always make myself availble to my peers for help. I enjoy it and it usually helps me understand what I'm teaching better.
     -I participated in the Name.com/Turing Hackathon. My group built a website that allows users to exchange unwanted Christmas gifts. It has you submit a gift you do not want and it randomly sends you someone else's regifted gift in return.
     -I am a member of the Maker/Turing Lab Posse. I got my hands on some arduinos and made some LEDs flash! Soon I will be kicking of a personal project here once a couple more parts arrive in the mail.
-    
+
 ------------------
 
 ## Final Review
